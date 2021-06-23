@@ -1,0 +1,6 @@
+1888,Toyota Vois,100.0,false,unrented,Jane Liew
+3456,Proton Saga,250.0,false,unrented,Jack Tan
+4545,Honda Civic,350.0,false,unrented,Tom Lee
+6969,Honda City,450.0,false,unrented,Michael Lee
+8788,perodua myvi,150.0,false,unrented,Jason Ma
+6968,Cheah Cheah,100.0,false,unrented,jojij jojij
